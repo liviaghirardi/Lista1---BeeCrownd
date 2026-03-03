@@ -5,6 +5,7 @@ Repositório com minhas soluções dos exercícios da plataforma beecrowd (antig
 🔗 Plataforma: https://judge.beecrowd.com/
 
 📚 Categoria: Variáveis e Operadores
+
 💻 Linguagem utilizada: Java - 19
 
 📌 Sobre
